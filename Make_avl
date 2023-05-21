@@ -1,0 +1,2 @@
+all:
+	gcc timer.c avl_tree.c test_trees.c -o tests_trees_avl -lm

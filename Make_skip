@@ -1,0 +1,2 @@
+all:
+	gcc timer.c skip_list.c test_trees.c -o tests_skip_list -lm -g

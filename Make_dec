@@ -1,0 +1,2 @@
+all:
+	gcc timer.c dec_tree.c test_trees.c -o tests_trees_dec -lm
